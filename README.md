@@ -8,6 +8,6 @@ Link to my work: </br>
 
 Day2: 11/08/2017 Keyboard </br>
 Link to my work (Sound files are not included) </br>
-<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/keyboard.js">Clock.js</a></br>
-<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/keyboard.css">Clock.css</a></br>
-<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/keyboard.html">Clock.html</a></br>
+<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/keyboard.js">keyboard.js</a></br>
+<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/keyboard.css">keyboard.css</a></br>
+<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/keyboard.html">keyboard.html</a></br>
