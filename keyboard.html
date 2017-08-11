@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JS Drum Kit</title>
+  <link rel="stylesheet" href="keyboard.css">
+</head>
+<body>
+
+
+  <div class="keys">
+    <div data-key="65" class="white_key">
+      <kbd>A</kbd>
+      <span class="sound">Do</span>
+    </div>
+
+    <div data-key="83" class="black_key">
+      <kbd>S</kbd>
+      <span class="sound">Do#</span>
+    </div>
+
+    <div data-key="68" class="white_key">
+      <kbd>D</kbd>
+      <span class="sound">Re</span>
+    </div>
+
+    <div data-key="70" class="black_key">
+      <kbd>F</kbd>
+      <span class="sound">Re#</span>
+    </div>
+
+    <div data-key="71" class="white_key">
+      <kbd>G</kbd>
+      <span class="sound">Mi</span>
+    </div>
+
+    <div data-key="72" class="white_key">
+      <kbd>H</kbd>
+      <span class="sound">Fa</span>
+    </div>
+    <div data-key="74" class="black_key">
+      <kbd>J</kbd>
+      <span class="sound">Fa#</span>
+    </div>
+    
+
+    <div data-key="75" class="white_key">
+      <kbd>K</kbd>
+      <span class="sound">So</span>
+    </div>
+
+    <div data-key="76" class="black_key">
+      <kbd>L</kbd>
+      <span class="sound">So#</span>
+    </div>
+
+    <div data-key="186" class="white_key">
+      <kbd>;</kbd>
+      <span class="sound">La</span>
+    </div>
+
+    <div data-key="222" class="black_key">
+      <kbd>'</kbd>
+      <span class="sound">La#</span>
+    </div>
+
+    <div data-key="13" class="white_key">
+      <kbd>ENT</kbd>
+      <span class="sound">Si</span>
+    </div>
+
+    </div>
+
+  </div>
+
+  <audio data-key="65" src="sounds/Do.m4a"></audio>
+  <audio data-key="83" src="sounds/Do_up.m4a"></audio>
+  <audio data-key="68" src="sounds/Re.m4a"></audio>
+  <audio data-key="70" src="sounds/Re_up.m4a"></audio>
+  <audio data-key="71" src="sounds/Mi.m4a"></audio>
+  <audio data-key="72" src="sounds/Fa.m4a"></audio>
+  <audio data-key="74" src="sounds/Fa_up.m4a"></audio>
+
+  <audio data-key="75" src="sounds/So.m4a"></audio>
+  <audio data-key="76" src="sounds/So_up.m4a"></audio>
+  <audio data-key="186" src="sounds/La.m4a"></audio>
+  <audio data-key="222" src="sounds/La_up.m4a"></audio>
+  <audio data-key="13" src="sounds/Si.m4a"></audio>
+  <script src="keyboard.js"></script>
+</body>
+</html>
