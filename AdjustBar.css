@@ -1,0 +1,50 @@
+:root {
+   --bk: #00ff7f;
+   --spacing: 10px;
+   --blur: 0px;
+   --saturate: 100%;
+   --opa: 100%
+}
+
+img {
+  padding: var(--spacing);
+  background: var(--bk);
+  filter: blur(var(--blur)) saturate(var(--saturate)) opacity(var(--opa));
+  border-radius: 100%;
+}
+/*
+ misc styles, nothing to do with CSS variables
+*/
+body {
+  display: inline-block;
+  text-align: center;
+  background: #2f4f4f;
+  color: white;
+  font-family: 'Lucida Sans Unicode', sans-serif;
+  font-weight: 100;
+  font-size: 25px;
+  padding:40px;
+}
+
+.controls {
+  margin-bottom: 50px;
+}
+
+input {
+  width:100px;
+}
+
+/*  http://www.cssportal.com/style-input-range/  */
+input[type=range]::-webkit-slider-runnable-track {
+  width: 50%;
+  height: 20px;
+  overflow: hidden;
+  cursor: pointer;   
+  animate: 0.2s;
+  box-shadow: 1px 1px 1px #000000;
+  background: #3071A9;
+  border-radius: 15px;
+  border: 1px solid #000000;
+}
+/* curosr property: https://www.w3schools.com/cssref/pr_class_cursor.asp  */
+/* parent meaning good website: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables  */
