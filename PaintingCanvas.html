@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML5 Canvas</title>
+  <link rel="stylesheet" href="PaintingCanvas.css" />
+</head>
+
+<body>
+  <div class="controls">
+    <label for="pen_c">Stroke Color</label>
+    <input id="pen_c" type="color" name="pen_c" value="#CD5C5C">
+
+    <!-- 
+    <label for="pen_w">Stroke thickness<label> 
+      <input id="pen_w" type="range" name="pen_w" min="1" max="100" value="30" data-sizing="px"> 
+    -->
+    
+    <label for="pen_w">Stroke Thickness</label>
+    <input id="thin" type="button" onclick="ChangeLineWidth(this.id)">
+    <input id="middle" type="button" onclick="ChangeLineWidth(this.id)"> 
+    <input id="thick" type="button" onclick="ChangeLineWidth(this.id)">
+
+
+    <input id="clear" type="button" value="clear" onclick="clearCanvas()">
+
+  </div>  
+
+  <canvas id="draw" width="800" height="800"></canvas>
+
+  
+  <script src="PaintingCanvas.js"> </script>
+
+</body>
+</html>

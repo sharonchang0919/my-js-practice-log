@@ -1,0 +1,55 @@
+
+html, body {
+    margin:0px;
+    font-family: 'Lucida Sans Unicode', sans-serif;
+}
+
+.controls {
+  background-color: gray;
+  padding:10px;
+  color:white;
+  display: flex;
+  text-align: center;
+  justify-content:center;
+  /*border:solid 2px green;*/
+}
+label {
+   margin:20px 10px 20px 20px;
+   /*border:solid 2px red;*/
+}
+input {
+  width:50px;
+  margin:20px 20px 20px 0px;
+  /* border:solid 3px yellow;*/
+}
+
+input[type=button] {
+    background-color: black;
+    color: black;
+    text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+    text-align: center;
+    display:flex;
+    justify-content:center;
+
+}
+input[id=thin] {
+    height:10px;
+}
+input[id=middle] {
+    height:20px;
+}
+input[id=thick] {
+    height:30px;
+}
+input[id=clear] {
+    height:30px;
+    background-color: white;
+    margin:20px 10px 20px 20px;
+    width: 100px;
+}
+
+canvas {
+  background-color: #444444;
+}
