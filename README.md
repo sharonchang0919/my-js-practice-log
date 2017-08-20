@@ -35,3 +35,9 @@ Link to my work: </br>
 <a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/PaintingCanvas.js">PaintingCanvas.js</a></br>
 <a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/PaintingCanvas.css">PaintingCanvas.css</a></br>
 <a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/PaintingCanvas.html">PaintingCanvas.html</a></br>
+
+Day7: 20/08/2017 Slide in on Scroll </br>
+Link to my work: </br>
+<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/SlideIn.js">SlideIn.js</a></br>
+<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/SlideIn.css">SlideIn.css</a></br>
+<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/SlideIn.html">SlideIn.html</a></br>
