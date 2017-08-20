@@ -26,9 +26,9 @@ Link to my work </br>
 
 Day5: 17/08/2017 Flex Gallery </br>
 Link to my work (Picutre files are not included)  </br>
-<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/FlaxGallery.js">FlaxGallery.js</a></br>
-<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/FlaxGallery.css">FlaxGallery.css</a></br>
-<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/FlaxGallery.html">FlaxGallery.html</a></br>
+<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/FlexGallery.js">FlexGallery.js</a></br>
+<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/FlexGallery.css">FlexGallery.css</a></br>
+<a href="https://github.com/sharonchang0919/my-js-practice-log/blob/master/FlexGallery.html">FlexGallery.html</a></br>
 
 Day6: 18/08/2017 Painting Canvas </br>
 Link to my work </br>
